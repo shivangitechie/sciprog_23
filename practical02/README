@@ -1,0 +1,6 @@
+These are the c files containing the codes for week 2 practicals
+1. Conversion.c
+2. Sum.c
+For compiling:
+gcc -o Conversion Conversion.c -lm
+gcc -o Sum Sum.c -lm
