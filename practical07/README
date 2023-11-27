@@ -1,0 +1,11 @@
+These are the codes for Practical 7.
+
+1. finde.c
+2. dynamicallocation.c
+
+To compile
+
+gcc -o dynamicallocation dynamicallocation.c -lm -Wall
+gcc -o finde finde.c -lm -Wall
+
+It can be noticed that the estimateion of e increases as the order of the polynomial increases. Howeve, fter a certain threshold velue, the estimation starts getting worse with increasing polynomial, which can happen because of machine precision. It might be that the value we are trying to calculate is not in bounds with the datatype of the variable. 
