@@ -1,0 +1,7 @@
+This is the code file for Practical 8 for calculating the Greatest Common Divisor using iteration and recursion.
+
+1. gcd.c
+
+To compile
+
+gcc -o gcd gcd.c -lm -Wall
