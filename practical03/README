@@ -1,0 +1,7 @@
+These are codes for practical 3, containing the following files:
+1. printf.c
+2. trap.c
+
+To compile 
+gcc -o print printf.c 
+gcc -o trap trap.c -lm -Wall
