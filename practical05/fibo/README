@@ -1,0 +1,7 @@
+This is the code for practical 5 for finding the Fibonacci Series.
+
+1. fibo.c
+
+To compile
+
+gcc -o fib fibo.c -lm -Wall

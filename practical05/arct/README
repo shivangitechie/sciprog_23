@@ -1,0 +1,7 @@
+This is the code for practical 5 for finding the hyperbolic arc tangent.
+
+1. arctan.c
+
+To compile
+
+gcc -o arctan arctan.c -lm -Wall
