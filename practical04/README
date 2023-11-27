@@ -1,0 +1,9 @@
+This is the code for practical 4, to calculate the area using trapezoidal rule by converting the angle from degrees to radians and compare with the exact value calculated from formula.
+
+1. trap_deg.c
+
+To compile 
+
+gcc -o trap_deg trap_deg.c -lm
+
+
