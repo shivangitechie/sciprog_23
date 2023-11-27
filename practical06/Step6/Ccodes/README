@@ -1,0 +1,9 @@
+This is the code for Practical 6 for generating a Makefile to perform matrix Multiplication
+
+1. main.c
+2. matmult.c
+3. Makefile
+
+To compile
+
+make

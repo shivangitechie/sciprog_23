@@ -1,0 +1,12 @@
+This is the code for Practical 6 for calling the matmult func into the main func
+
+1. main.c
+2. matmult.c
+
+To compile
+
+gcc -c main.c
+gcc -c matmult.c
+gcc -o matmultc main.o matmult.o
+
+Look at the Ccodes folder which creates a Makefile to make this process easier.

@@ -1,0 +1,9 @@
+This is the code for Practical 6 for multiplying 2 matrices
+
+1. matmult.c
+
+To compile
+
+gcc -o matmult matmult.c -lm -Wall
+
+Look at the Step6 folder to see methods for calling the matmult func into the main func.
